@@ -1,3 +1,3 @@
-git clone 
-yarn
+git clone, 
+yarn, 
 ng serve
